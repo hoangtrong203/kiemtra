@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file demo cua branch demo
+=======
+file demo cua branch main.
+>>>>>>> main
